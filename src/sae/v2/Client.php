@@ -1,10 +1,8 @@
 <?php
 
 
-namespace taoxin\sea\v2;
+namespace taoxin\sae\v2;
 
-
-use taoxin\sae\v2\OAuth;
 
 /**
  * 新浪微博操作类V2

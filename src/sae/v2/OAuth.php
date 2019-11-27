@@ -4,7 +4,7 @@
 namespace taoxin\sae\v2;
 
 
-use OAuthException;
+
 
 /**
  * 新浪微博 OAuth 认证类(OAuth2)
