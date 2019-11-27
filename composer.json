@@ -1,0 +1,21 @@
+{
+    "name": "taoxin/weibo-open",
+    "description": "微博一些常用操作封装",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taoxin",
+            "email": "taoxin0704@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "taoxin\\": "src/taoxin"
+        }
+    }
+}
